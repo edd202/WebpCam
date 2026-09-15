@@ -2,7 +2,9 @@
 
 <img src="webpcam.png" width="96" alt="webpCam 아이콘">
 
-Windows에서 화면의 원하는 영역을 녹화해 움직이는 WebP로 저장하는 작은 프로그램입니다. GifCam의 사용 방식을 참고한 독립 프로젝트이며, GifCam 공식 제품이 아닙니다.
+Windows에서 화면의 원하는 영역을 녹화해 움직이는 WebP로 저장하는 작은 프로그램입니다. 
+
+GifCam의 사용 방식을 참고한 독립 프로젝트이며, GifCam 공식 제품이 아닙니다.
 
 현재 버전: **1.0**
 
@@ -41,7 +43,9 @@ Windows 10/11, Python 3.11 이상 64비트와 Tcl/Tk가 필요합니다.
 ## EXE 빌드
 
 Windows에서 `Build_EXE.bat`를 실행하면 `dist/webpCam.exe`를 생성합니다. 생성된 EXE는 Python 설치 없이 실행하는 용도입니다. 
-사전 빌드된 실행파일은 Realse에서 다운로드 하시면됩니다.
+
+사전 빌드된 실행파일은 Release에서 다운로드 하시면됩니다.
+
 https://github.com/edd202/WebpCam/releases/latest
 
 ## 게임과 관리자 권한
