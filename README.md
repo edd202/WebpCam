@@ -40,7 +40,9 @@ Windows 10/11, Python 3.11 이상 64비트와 Tcl/Tk가 필요합니다.
 
 ## EXE 빌드
 
-Windows에서 `Build_EXE.bat`를 실행하면 `dist/webpCam.exe`를 생성합니다. 생성된 EXE는 Python 설치 없이 실행하는 용도입니다. 이 저장소에는 사전 빌드된 EXE가 포함되어 있지 않습니다.
+Windows에서 `Build_EXE.bat`를 실행하면 `dist/webpCam.exe`를 생성합니다. 생성된 EXE는 Python 설치 없이 실행하는 용도입니다. 
+사전 빌드된 실행파일은 Realse에서 다운로드 하시면됩니다.
+https://github.com/edd202/WebpCam/releases/latest
 
 ## 게임과 관리자 권한
 
